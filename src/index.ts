@@ -3,4 +3,4 @@
 import {mainCommand} from './new-project'
 
 mainCommand
-  .parse(process.argv)
+    .parse(process.argv)
